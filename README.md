@@ -12,9 +12,9 @@ A Sniffer as a Computer Network lab
 
 
 ## Author
-Pengyu Xiao(pydxflwb@sjtu.edu.cn)
+[Pengyu Xiao](https://githu.com/pydxflwb)(pydxflwb@sjtu.edu.cn)
 
-Xing Yuan
+[Xing Yuan](https://github.com/yx3266)
 
 2019.12
 
